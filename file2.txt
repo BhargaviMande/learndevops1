@@ -4,3 +4,4 @@ this is demo
 this is line3
 this is final line
 
+newline in file2
